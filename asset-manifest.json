@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c1dd440b.css",
+    "main.js": "./static/js/main.aa644b2a.js",
+    "static/media/banner1.jpg": "./static/media/banner1.1b2f36e2866fc7f0373e.jpg",
+    "static/media/logo.png": "./static/media/logo.3a990f8171112ed11c9c.png",
+    "static/media/imagem1.jpg": "./static/media/imagem1.2e675d2d46c4e1b72e70.jpg",
+    "static/media/quemSomos.jpeg": "./static/media/quemSomos.6021a04d26d6f964f0a5.jpeg",
+    "static/media/imagem3.jpg": "./static/media/imagem3.64b65b1a914c767436e3.jpg",
+    "static/media/imagem2.jpeg": "./static/media/imagem2.b0998d9761df38f36fcf.jpeg",
+    "index.html": "./index.html",
+    "main.c1dd440b.css.map": "./static/css/main.c1dd440b.css.map",
+    "main.aa644b2a.js.map": "./static/js/main.aa644b2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1dd440b.css",
+    "static/js/main.aa644b2a.js"
+  ]
+}
